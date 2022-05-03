@@ -1,0 +1,450 @@
+
+        .logo{
+            width: 130px;
+            height: 90px;
+        }
+        h1{
+          position: absolute;
+          left: 60px;
+          top: 5px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: inherit;
+font-size: 22px;
+        }
+       div{
+display: inline;
+position: relative;
+
+        }
+        .p0{
+           
+            display: inline;
+            padding: 35px;
+        }
+        .p1{
+            position: relative;
+           
+            display: inline;
+            padding: 35px;
+        }
+        .p2{
+            position: relative;
+            padding: 35px;
+            display: inline;
+        }
+        .p3{
+            position: relative;
+            padding: 35px;
+            display: inline;
+        }
+        .p4{
+            position: relative;
+            padding: 35px;
+            display: inline;
+        }
+.general-div{
+    position: absolute;
+    left: 500px;
+    top: 10px;
+}
+       
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        .photo{
+            height: 700px;
+            width:1437px;
+           
+        
+        }
+        .demo{
+        
+            position: absolute;
+       
+           height:700px;
+           width: 500px;
+            top: 55px;
+            
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-color: rgb(0, 174, 255);
+            opacity: .5;
+           
+        }
+        .demo2
+        {
+
+           
+            position: absolute;
+            top: 300px;
+            left: 100px;
+           
+            
+        }
+        .title{
+            color: rgb(211, 211, 211);
+            font-size:40px
+           
+            
+
+        }
+        .description{
+
+            color: rgb(211, 211, 211);
+            font-size:30px
+        }
+        
+
+        .practise{
+            position: absolute;
+            Top: 758px;
+            left: 1px;
+            display: inline;
+            background-color: rgb(213, 247, 255);
+
+
+
+
+            COLOR:black;
+            width: 600px; height:450px;
+            
+        }
+        .lists{
+            display: inline;
+            background-color:white;
+            width: 300px;
+            height: 160px;
+          
+        }
+        .areas{
+            top: 90px;
+           left: 70px;
+         
+        }
+        .description-section-2{
+
+            font-size: 50px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+       
+        .square {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(0, 143, 148);
+            position: absolute;
+            top: 850px;
+            left: 700px;
+           
+          }
+
+
+          .square2 {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(0, 143, 148);
+            position: absolute;
+            top: 850px;
+            left: 1100px;
+           
+          }
+
+          .square3 {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(0, 143, 148);
+            position: absolute;
+            top: 950px;
+            left: 700px;
+           
+          }
+
+          .square4 {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(0, 143, 148);
+            position: absolute;
+            top: 950px;
+            left: 1100px;
+           
+          }
+          pre{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+          .square5 {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(0, 143, 148);
+            position: absolute;
+            top: 1050px;
+            left: 700px;
+          }
+          .square6 {
+            height: 10px;
+            width: 10px;
+            background-color: rgb(0, 143, 148);
+            position: absolute;
+            top: 1050px;
+            left: 1100px;
+          }
+          .list1{
+           
+            color: rgb(0, 0, 66);
+            position: relative;
+            top: 88px;
+            left: 720px;
+          }
+          .list2{
+
+            color: rgb(0, 0, 66);
+            position: relative;
+            top: 30px;
+            left: 1120px;
+          }
+
+          .list3{
+
+            color: rgb(0, 0, 66);
+            position: relative;
+            top: 75px;
+            left: 720px;
+          }
+
+          .list4{
+
+            color: rgb(0, 0, 66);
+            position: relative;
+            top: 18px;
+            left: 1120px;
+          }
+          .list5{
+
+            color: rgb(0, 0, 66);
+            position: relative;
+            top: 58px;
+            left: 720px;
+          }
+          .list6{
+
+            color: rgb(0, 0, 66);
+            position: relative;
+            top: 5px;
+            left: 1130px;
+          }
+
+          .our-vision-text{
+              font-size:30px;
+            padding: 10px;
+             text-align: center;
+             color: white;
+             font-family: 'raleway,sans-serif';}
+        h4 {
+            font-size:43px;
+           margin: 8px;
+          text-align: center;
+          color: white;
+          font-family: 'raleway,sans-serif';}
+          .our-vision{
+              position: absolute;
+              top: 1200px;
+              background-color: rgb(0,48,91);
+              width:1437px;
+              height: 490px;
+          }
+
+          .people{
+              position: absolute;
+              top: 1692px;
+            height: 700px;
+            width:1437px;
+          }
+
+          .OUR-ATTORNEYS{
+         width:1437px;
+         height: 530px;
+         background-color: rgb(234,244,246);
+         position: absolute;
+         top: 2400px;
+          }
+
+          .our-attorneys-header{
+              
+              font-family: ' raleway,sans-serif';
+              font-size:42px;
+              color: rgb(0,48,91);
+              position: absolute;
+              top: 50px;
+              left: 490px;
+          }
+
+          .person1{
+            width: 193px;
+            height: 220px;
+            position: absolute;
+            top: 140px;
+            left: 240px;
+
+          }
+          .person2{
+            width: 193px;
+            height: 220px;
+            position: absolute;
+            top: 140px;
+            left: 550px;
+          }
+          .person3{
+            width: 193px;
+            height: 220px;
+            position: absolute;
+            top: 140px;
+            left: 850px;
+          }
+
+          .man1-text{
+            position: absolute;
+            top: 370px;
+            left: 270px;
+            text-align: center;
+            color: rgb(0,48,91);;
+          }
+
+
+          .woman-text{
+            position: absolute;
+            top: 370px;
+            left: 600px;
+            text-align: center;
+            color: rgb(0,48,91);;
+          }
+          .man2-text{
+            position: absolute;
+            top: 370px;
+            left: 890px;
+            text-align: center;
+            color: rgb(0,48,91);
+          }
+
+          .vector1{
+              position: absolute;
+              top: 420px;
+            left: 260px;
+              height:1px;
+              width:144px;
+              background-color:rgb(0,48,91);
+          }
+
+          .vector2{
+            position: absolute;
+            top: 420px;
+             left: 580px;
+            height:1px;
+            width:144px;
+            background-color:rgb(0,48,91);
+        }
+
+        .vector3{
+            position: absolute;
+            top: 420px;
+             left: 870px;
+            height:1px;
+            width:144px;
+            background-color:rgb(0,48,91);
+        }
+        .number1{
+            position: absolute;
+            top: 440px;
+          left: 270px;
+          color: rgb(0,48,91);
+        }
+        .number2{
+            position: absolute;
+            top: 440px;
+            left: 590px;
+          color: rgb(0,48,91);
+        }
+        .number3{
+            position: absolute;
+            top: 440px;
+            left: 880px;
+          color: rgb(0,48,91);
+        }
+
+        .form{
+            background-color: rgb(0,48,91);
+            width: 1437px;height :500px;
+            position: absolute;
+            top: 2930px;
+        }
+        .contact{
+            color: white;
+            position: absolute;
+            top: 30px;
+            left: 140px;
+            font-size:50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .adress{
+            color: white;
+            font-size:20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+        a{
+            text-decoration: none;
+            color:white
+        }
+        a:hover{
+            text-decoration: none;
+            color:rgb(157, 232, 255)
+        }
+
+        .form-text{
+            color:white;
+            font-size:20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+       .footer{
+position:absolute;
+top: 50px;
+        left: 600px;
+       }
+label{
+    color: white;
+    font-size:20px;
+}
+       label::after{
+           content:"*";
+           color: white;
+       }
+       input{
+           width:300px;
+           height:20px;
+       }
+       .form-part{
+           position:relative;
+           left: 600px;
+           top: 230px;
+       }
+
+       .text-area{
+position:absolute;
+top: -2px;left: 350px;
+
+       }
+       textarea{
+           width:200px;
+           height:165px;
+       }
+       button{
+           width:550px;
+           height:40px;
+           background-color: rgb(0,48,91);
+           color: white;
+           border: 1px solid white;
+           position:absolute;
+           top: 210px;
+           left: -2px;
+       }
